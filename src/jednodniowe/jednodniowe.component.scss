@@ -1,0 +1,19 @@
+.jednodniowe-container {
+    // margin: 0;
+    // padding: 0;
+    box-sizing: border-box;
+    display: float;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    height: 100vh;
+    // background-color: #f8e916;
+    color: #000000;
+    h1 {
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+    }
+    p {
+        font-size: 1.25rem;
+    }
+}
